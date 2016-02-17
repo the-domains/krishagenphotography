@@ -1,0 +1,28 @@
+name: KrisHagenPhotography
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.247072922764346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8353071759920567
+  lightness: 0.44422680675052106
+  saturation: 0.35289563122205436
+  rhythmicContrast: 0.4830980694387108
+purpose: []
