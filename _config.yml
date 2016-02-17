@@ -1,6 +1,6 @@
 name: KrisHagenPhotography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.4285272241104394
 typography_spectrum: 0.247072922764346
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 1
-  rhythmicContrast: 0.75
+  brandStrength: 0.8353071759920567
+  lightness: 0.44422680675052106
+  saturation: 0.35289563122205436
+  rhythmicContrast: 0.4830980694387108
 purpose: []
