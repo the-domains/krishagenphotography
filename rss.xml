@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KrisHagenPhotography]]></title>
         <description><![CDATA[KrisHagenPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krishagenphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:21:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 06:26:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krishagenphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccba369b-d8fc-4e2b-8c89-6b21930b1107.jpg">]]></description>
+            <link>https://thegrid.ai/krishagenphotography/a90f1670-b85e-4e54-b890-472e9bdd1a13/index.html</link>
+            <guid isPermaLink="false">a90f1670-b85e-4e54-b890-472e9bdd1a13</guid>
+            <pubDate>Wed, 17 Feb 2016 06:26:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a95e9453-02f4-46c7-b077-549185c282a5.jpg">]]></description>
-            <link>undefined95ab93c6-d19d-4da4-8fd1-2e45d2bf128d/index.html</link>
+            <link>https://thegrid.ai/krishagenphotography/95ab93c6-d19d-4da4-8fd1-2e45d2bf128d/index.html</link>
             <guid isPermaLink="false">95ab93c6-d19d-4da4-8fd1-2e45d2bf128d</guid>
             <pubDate>Wed, 17 Feb 2016 06:21:02 GMT</pubDate>
         </item>
